@@ -1,6 +1,1 @@
-Ping-Pong Game:
-Created using HTML,CSS and JavaScript. It is a single user game.
-Game is running inside update loop, every single frame that passes we are calling a function and that function updates the positions and the logic of all pieces 
-of the game. 
-The computer AI moves the paddle and ball moves in the current direction it's going and user can move its paddle with its mouse as well this is going to update 
-all the positions and paint everything on the screen exactly where it needs to go inside of the update loop.
+Ping-Pong Game: Created using HTML, CSS, and JavaScript, it is a single-player game. The game runs inside an update loop, where a function is called for every frame, updating the positions and logic of all game elements. The computer AI moves the paddle, and the ball moves in its current direction. The user can also move their paddle using the mouse. This updates all the positions and paints everything on the screen, precisely where it needs to be, within the update loop.
